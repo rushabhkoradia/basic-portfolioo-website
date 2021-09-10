@@ -1,4 +1,4 @@
-# Basic Web Development Project
+# Basic Portfolio Website
 Hi I made this project using pure <b><i>HTML, CSS & Bootstrap</i></b>.
 <p>You can follow me on:</p>
 <ul>
